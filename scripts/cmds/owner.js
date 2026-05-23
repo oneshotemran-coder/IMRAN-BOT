@@ -21,17 +21,17 @@ onStart: async function ({ api, event, usersData, threadsData, message }) {
 try {
 
 // ===== OWNER INFO =====  
-  const ownerName = "𝙼𝚁.𝙵𝙰𝙷𝙸𝙼";  
+  const ownerName = "VK.IMRAN";  
   const ownerReligion = "𝙸𝚂𝙻𝙰𝙼";
   const ownerRelation = "𝚂𝙸𝙽𝙶𝙻𝙴";
-  const ownerAddress = "𝙳𝙷𝙰𝙺𝙰.𝙼𝙸𝚁𝙿𝚄𝚁 2";
-  const ownerAge = "17";
+  const ownerAddress = "MUNSHIGANJ.BAGIYA BAZAR";
+  const ownerAge = "22";
   
   // ===== CONTACT =====  
-  const facebook = "fb.com/fahim.ahmed.raj.207";  
-  const whatsapp = "wa.me/+8801771240377";  
-  const telegram = "t.me/DEVIL_FAHIM_207";  
-  const youtube = "yb.com/@FAHIM-BOT";  
+  const facebook = "https://www.facebook.com/profile.php?id=61587039296724";  
+  const whatsapp = "wa.me/+8801921615668";  
+  const telegram = "t.me/imran09765";  
+  const youtube = "yb.com/@IMRAN-BOT";  
 
   // ===== BOT INFO =====  
   const botName = global.GoatBot?.config?.nickNameBot || "─꯭𓆩»‌‌𝆠꯭፝֟𝐒𝐈𝐙𝐔𝐊𝐀𝆠꯭፝֟𓆩𝆠፝𝐁𝐀𝐁𝐘𝆠꯭፝֟𝆠꯭፝֟𓆪";  
