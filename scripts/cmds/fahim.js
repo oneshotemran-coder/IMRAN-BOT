@@ -4,12 +4,12 @@ let videoIndex = 0;
 
 module.exports = {
   config: {
-    name: "fahim",
+    name: "𝗶𝗺𝗿𝗮𝗻",
     version: "1.0.0",
     author: "Farhan-Khan",
     countDown: 0,
     role: 0,
-    shortDescription: "Fahim video reply",
+    shortDescription: "𝗶𝗺𝗿𝗮𝗻 video reply",
     category: "media"
   },
 
@@ -74,7 +74,7 @@ module.exports = {
       });
 
       await message.reply({
-        body: "🎬 Fahim Video",
+        body: "🎬 𝗶𝗺𝗿𝗮𝗻 Video",
         attachment: videoStream.data
       });
 
