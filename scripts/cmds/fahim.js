@@ -19,7 +19,7 @@ module.exports = {
 
     const text = (event.body || "").toLowerCase();
 
-    if (!text.includes("fahim")) return;
+    if (!text.includes("𝗶𝗺𝗿𝗮𝗻")) return;
 
     // 🎬 Video list
     const videos = [
