@@ -147,7 +147,7 @@ module.exports = {
       api.setMessageReaction("✅", event.messageID, () => {}, true);
       
       await message.reply({
-        body: "◢◤━━━━━━━━━━━━━━━━◥◣\n      𓆩»̶̶͓͓͓̽̽̽𝆠꯭፝֟ᴍᴜꜱɪᴄ_ʙᴏᴛ𝆠꯭፝֟𝆠꯭፝֟𓆪🎀🎧 𝗕𝗢𝗧 𝗩𝟭 𝗨𝗣𝗧𝗜𝗠𝗘\n          𝗢𝗪𝗡𝗘𝗥:-𝗙𝗔𝗛𝗜𝗠\n◥◣━━━━━━━━━━━━━━━━◢◤",
+        body: "◢◤━━━━━━━━━━━━━━━━◥◣\n      𓆩»̶̶͓͓͓̽̽̽𝆠꯭፝֟ᴍᴜꜱɪᴄ_ʙᴏᴛ𝆠꯭፝֟𝆠꯭፝֟𓆪🎀🎧 𝗕𝗢𝗧 𝗩𝟭 𝗨𝗣𝗧𝗜𝗠𝗘\n          𝗢𝗪𝗡𝗘𝗥:-𝗜𝗠𝗥𝗔𝗡\n◥◣━━━━━━━━━━━━━━━━◢◤",
         attachment: fs.createReadStream(filePath)
       });
 
