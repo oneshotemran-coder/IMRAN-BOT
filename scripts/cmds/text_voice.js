@@ -45,11 +45,11 @@ module.exports = {
       "khanki": "https://files.catbox.moe/kje55j.mp4",
 
       "fahim": "https://files.catbox.moe/e2nd1c.mp3",
-      "ফাহিম": "https://files.catbox.moe/91qnco.mp4",
+      "ইমরান": "https://files.catbox.moe/91qnco.mp4",
 
-      "@fahim ahmed": "https://files.catbox.moe/84fp4p.mp3",
+      "@𝗶𝗺𝗿𝗮𝗻 𝗮𝗵𝗺𝗲𝗱": "https://files.catbox.moe/84fp4p.mp3",
 
-      "mahi": "https://files.catbox.moe/3u6shs.mp3",
+      "𝗺𝗶𝗺𝗶": "https://files.catbox.moe/3u6shs.mp3",
 
       "good night": "https://files.catbox.moe/i29m4q.mp3",
       "গুড নাইট": "https://files.catbox.moe/i29m4q.mp3",
