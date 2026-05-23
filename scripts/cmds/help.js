@@ -105,7 +105,7 @@ module.exports = {
 
     // Main menu
     if (!input) {
-      let msg = `╭───────❁\n│✨ 𝐅 𝐀 𝐇 𝐈 𝐌 𝗛𝗘𝗟𝗣 𝗟𝗜𝗦𝗧 ✨\n╰────────────❁\n`;
+      let msg = `╭───────❁\n│✨ 𝗜 𝗠 𝗥 𝗔 𝗡 𝗛𝗘𝗟𝗣 𝗟𝗜𝗦𝗧 ✨\n╰────────────❁\n`;
 
       for (const cat of Object.keys(categories).sort()) {
         msg += `╭─────✰『 ${getCategoryEmoji(cat)} ${fontConvert(cat, "category")} 』\n`;
@@ -118,7 +118,7 @@ module.exports = {
 
       const total = Object.values(categories).reduce((a, b) => a + b.length, 0);
 
-      msg += `╭─────✰[🌟 𝐄𝐍𝐉𝐎𝐘 🌟]\n│> TOTAL COMMANDS: [${total}]\n│\n│> TYPE: [ ${prefix}HELP <COMMAND> ]\n│\n│> FB.LINK: [https://m.me/fahim.ahmed.raj.207]\n╰────────────✰\n`;
+      msg += `╭─────✰[🌟 𝐄𝐍𝐉𝐎𝐘 🌟]\n│> TOTAL COMMANDS: [${total}]\n│\n│> TYPE: [ ${prefix}HELP <COMMAND> ]\n│\n│> FB.LINK: [https://www.facebook.com/profile.php?id=61587039296724]\n╰────────────✰\n`;
 
       msg += `╭─────✰\n│ 💖 𝗦𝗜𝗭𝗨𝗞𝗔-𝗕𝗢𝗧 💖\n╰────────────✰`;
 
