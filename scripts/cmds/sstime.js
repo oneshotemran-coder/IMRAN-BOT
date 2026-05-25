@@ -46,7 +46,7 @@ module.exports = {
 
     // 🖼️ Image list
     const images = [
-      "https://i.imgur.com/jh45907.jpeg"
+      "https://i.imgur.com/DJ2Mkht.jpeg"
     ];
 
     const imageUrl = images[imageIndex];
