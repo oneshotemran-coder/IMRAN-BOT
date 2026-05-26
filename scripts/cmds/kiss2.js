@@ -68,7 +68,7 @@ module.exports = {
       );
     } catch (err) {
       console.error(err);
-      api.sendMessage(`🥹error, contact 𝐅𝐀𝐇𝐈𝐌.`, threadID, messageID);
+      api.sendMessage(`🥹error, contact 𝗜𝗠𝗥𝗔𝗡.`, threadID, messageID);
     }
   }
 };
