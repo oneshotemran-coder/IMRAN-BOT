@@ -71,7 +71,7 @@ module.exports = {
 
     } catch (err) {
       console.error("Error in kiss command:", err.message || err);
-      message.reply("🥹 error, contact 𝐅𝐀𝐇𝐈𝐌.");
+      message.reply("🥹 error, contact 𝗜𝗠𝗥𝗔𝗡.");
     }
   }
 };
