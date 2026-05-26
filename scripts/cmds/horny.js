@@ -57,7 +57,7 @@ module.exports = {
       });
     } catch (e) {
       console.error("ERROR:", e);
-      api.sendMessage("🥹error, contact 𝐅𝐀𝐇𝐈𝐌.", event.threadID, event.messageID);
+      api.sendMessage("🥹error, contact 𝗜𝗠𝗥𝗔𝗡.", event.threadID, event.messageID);
     }
   }
 };
