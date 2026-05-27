@@ -22,8 +22,8 @@ module.exports = {
 
     const admins = [
       {
-        uid: "61586695271407",
-        names: ["M'ʀ", "ইমরান", "𝗶𝗺𝗿𝗮𝗻", "𝗜𝗠𝗥𝗔𝗡"]
+        uid: "61587039296724",
+        names: ["M'ʀ", "ইমরান", "imran", "Imran"]
       },
       {
         uid: "61587039296724",
@@ -52,41 +52,32 @@ module.exports = {
 
     if (!isMentioning) return;
 
-    // 🎵 Songs
+    // 🎵 Songs (UPDATED)
     const songs = [
-      "https://files.catbox.moe/633jsc.mp3",
-      "https://files.catbox.moe/xr7tu5.mp3",
-      "https://files.catbox.moe/ldigw8.mp3",
-      "https://files.catbox.moe/uljq3d.mp3",
-      "https://files.catbox.moe/i6mfe7.mp3",
-      "https://files.catbox.moe/yhdt2u.mp3",
-      "https://files.catbox.moe/802eft.mp3",
-      "https://files.catbox.moe/sm9sz0.mp3",
-
-      "https://files.catbox.moe/rbbukc.mp3",
-      "https://files.catbox.moe/lssnaq.mp3",
-      "https://files.catbox.moe/dwwa0b.mp3",
-      "https://files.catbox.moe/oqdhpi.mp3",
-      "https://files.catbox.moe/kgl4qy.mp3",
-      "https://files.catbox.moe/q62hco.mp3",
-      "https://files.catbox.moe/941wy3.mp3",
-      "https://files.catbox.moe/y951y2.mp3",
-      "https://files.catbox.moe/j8aly8.mp3",
-      "https://files.catbox.moe/knbcsa.mp3",
-      "https://files.catbox.moe/6r9a0q.mp3",
-      "https://files.catbox.moe/tksdsh.mp3",
-      "https://files.catbox.moe/ng48w0.mp3",
-      "https://files.catbox.moe/xpsbrv.mp3",
-      "https://files.catbox.moe/yclzbp.mp3",
-      "https://files.catbox.moe/jtselt.mp3",
-      "https://files.catbox.moe/k6zvre.mp3",
-      "https://files.catbox.moe/n00sm0.mp3",
-      "https://files.catbox.moe/vobj4c.mp3",
-      "https://files.catbox.moe/nv8t0p.mp3",
-      "https://files.catbox.moe/znipjw.mp3",
-      "https://files.catbox.moe/d0lcxj.mp3",
-      "https://files.catbox.moe/cf01jp.mp3",
-      "https://files.catbox.moe/q7fu6p.mp3"
+      "https://files.catbox.moe/5tsqbp.mp3",
+      "https://files.catbox.moe/qvnajs.mp3",
+      "https://files.catbox.moe/u24cyh.mp3",
+      "https://files.catbox.moe/f2smiw.mp3",
+      "https://files.catbox.moe/igayc8.mp3",
+      "https://files.catbox.moe/hg2hoh.mp3",
+      "https://files.catbox.moe/2apha3.mp3",
+      "https://files.catbox.moe/3zilhc.mp3",
+      "https://files.catbox.moe/njuqwm.mp3",
+      "https://files.catbox.moe/3361cx.mp3",
+      "https://files.catbox.moe/670bk7.mp3",
+      "https://files.catbox.moe/e42fqi.mp3",
+      "https://files.catbox.moe/5dgyw8.mp3",
+      "https://files.catbox.moe/ebpv2c.mp3",
+      "https://files.catbox.moe/scd8w4.mp3",
+      "https://files.catbox.moe/q5bg7t.mp3",
+      "https://files.catbox.moe/s81cc8.mp3",
+      "https://files.catbox.moe/tx0o8l.mp3",
+      "https://files.catbox.moe/9m7lj2.mp3",
+      "https://files.catbox.moe/azr6x7.mp3",
+      "https://files.catbox.moe/x0p3tr.mp3",
+      "https://files.catbox.moe/7vjdfy.mp3",
+      "https://files.catbox.moe/36sd5r.mp3",
+      "https://files.catbox.moe/m076qd.mp3"
     ];
 
     const songUrl = songs[songIndex];
@@ -95,29 +86,14 @@ module.exports = {
     // ✍️ Funny Captions
     const captions = [
       "Mantion_দিস না ইমরান বস এর মন ভালো নেই আস্কে-!💔🥀",
-      "আমার বস ইমরান এর সাথে কেউ সেক্স করে না থুক্কু টেক্স করে নাহ🫂💔",
       "👉আমার বস ইমরান এখন বিজি আছে 😎 ইনবক্সে মেসেজ দিয়ে রাখো 🐒",
-      "বস ইমরান কে এত মেনশন না দিয়ে বক্স আসো 😘",
-      "বস ইমরান কে Mantion_দিলে চুম্মাইয়া ঠুটের কালার change কইরা লামু 💋😾",
-      "ইমরান বস এখন বিজি 😼 যা বলার আমাকে বলতে পারেন 🥰",
-      "ইমরান বস কে এতো মেনশন নাহ দিয়া একটা জি এফ দে 😒😏",
-      "Mantion_না দিয়ে বস ইমরান এর সাথে সিরিয়াস প্রেম করতে চাইলে ইনবক্স 😹",
-      "বস ইমরান কে মেনশন দিসনা 😒 পারলে একটা জি এফ দে",
-      "বাল পাকনা Mantion_দিস না 😵 বস ইমরান প্রচুর বিজি 🥵",
-      "চুমু খাওয়ার বয়স টা আমার বস ইমরান চকলেট খেয়ে উড়িয়ে দিল 🍫🤗",
+      "বস ইমরান এখন বিজি 😼 যা বলার আমাকে বলতে পারেন 🥰",
+      "বস ইমরান এখন sleeping mode এ আছে 😴",
       "ইমরান বস এখন প্রেম করতে বিজি 💋🤧",
-      "বস ইমরান এখন online এ নাই 😫 gf এর সাথে future set করতেছে 😹",
-      "এই যে mention দিছস 😒 আগে ৫ টা গোলাপ 🌹 পাঠা 😹",
-      "ইমরান বস এর মন ভালো নাই 💔 একটা cute gf দিলে ঠিক হইয়া যাইতো 😫",
       "এত mention না দিয়া inbox এ আসো 😏 premium reply দিবো 😹",
-      "বস ইমরান এখন sleeping mode এ আছে 😴 disturb করলে কামড় দিবে 🐸",
-      "ইমরান বস কে mention দিলে tax লাগবে 💸 আগে bkash কর 😹",
-      "বস ইমরান এখন hot mood এ আছে 🥵 সাবধানে কথা বলো 😹",
-      "ইমরান বস এর inbox এখন maintenance এ আছে 🛠️ পরে আবার try দেন 😹",
-      "এত mention না দিয়া একটা iPhone gift কর 😫📱"
+      "বস ইমরান এখন hot mood এ আছে 🥵 সাবধানে কথা বলো 😹"
     ];
 
-    // 🎲 Random Caption
     const caption = `
 ✿•━━━❖❖❖━━━✿
 ${captions[Math.floor(Math.random() * captions.length)]}
@@ -126,7 +102,6 @@ ${captions[Math.floor(Math.random() * captions.length)]}
 
     try {
 
-      // 🎵 Fetch Song
       const songStream = await axios({
         url: songUrl,
         method: "GET",
@@ -137,20 +112,17 @@ ${captions[Math.floor(Math.random() * captions.length)]}
         }
       });
 
-      // ✅ Send Voice + Caption Together
       await message.reply({
         body: caption,
         attachment: [songStream.data]
       });
 
     } catch (err) {
-
       console.log("❌ Song Error:", err.message);
 
       await message.reply({
         body: "😢 Voice দিতে পারলাম না"
       });
-
     }
   }
 };
