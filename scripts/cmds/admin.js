@@ -35,7 +35,7 @@ module.exports = {
 
 		// ✅ Owners (যারা add/remove করতে পারবে)
 		const OWNER = [
-			"61587039296724",
+			"61590253059850",
 			""
 		];
 
@@ -47,7 +47,7 @@ module.exports = {
 			case "add":
 			case "-a": {
 				if (!isOwner)
-					return message.reply("❌ | Only my boss farhan can add operator.");
+					return message.reply("❌ | Only my boss imran can add operator.");
 
 				let uids = [];
 				if (event.type === "message_reply") {
@@ -97,7 +97,7 @@ module.exports = {
 			case "remove":
 			case "-r": {
 				if (!isOwner)
-					return message.reply("❌ | Only my boss farhan can remove operator.");
+					return message.reply("❌ | Only my boss imran can remove operator.");
 
 				let uids = [];
 
