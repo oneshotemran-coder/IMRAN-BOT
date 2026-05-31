@@ -69,10 +69,10 @@ module.exports = {
 ‎║🚻>𝗚𝗲𝗻𝗱𝗲𝗿:-  [>𝗠𝗮𝗹𝗲<]
 ‎‎╠══════════════════╣
 ‎║🌐>𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:-↓
-‎║→https://www.facebook.com/profile.php?id=61587039296724                           
+‎║→https://www.facebook.com/imran.boss.420                           
 ‎║
 ‎║💬>𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:-↓
-‎║https://www.facebook.com/profile.php?id=61587039296724
+‎║https://www.facebook.com/profile.php?id=61586695271407
 ‎║
 ‎║📞>𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:-↓
 ‎║→[>wa.me/+8801921615668<]        
